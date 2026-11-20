@@ -1,0 +1,6 @@
+{
+  "name": "elibrary-live",
+  "private": true,
+  "engines": { "node": "22.x" },
+  "scripts": { "start": "node backend/live-server.js" }
+}

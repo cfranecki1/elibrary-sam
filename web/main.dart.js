@@ -32806,7 +32806,7 @@ if(p.length!==0&&!B.Xt.q(0,p))return'the Content-Type "'+q+'" is not a CORS-safe
 if(!B.Xv.q(0,o.toLowerCase()))return'the request header "'+o+'" is not on the CORS safelist'}return null},
 biP(a,b){if(b.length===0)return a
 return a+' If this is a cross-origin request, the browser may have blocked it because the request is not a CORS "simple request" ('+B.b.bj(b,"; ")+"). Verify that the server responds correctly to the CORS preflight (OPTIONS) request. See https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS#simple_requests"},
-aWM(){return"https://elibrary-sam.onrender.com"},
+aWM(){return"https://elibrary-sam-production.up.railway.app"},
 aS1(a){var s=a==null?null:B.c.aR(a)
 $.aS0=s==null||s.length===0?null:s},
 OI(a,b){if(A.bq(a,B.i0,t.w).w.ax)return B.D
